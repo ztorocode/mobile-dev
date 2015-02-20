@@ -7,5 +7,6 @@ Android Login Screen Tutorial
 
 ## Doc
 #### Contact developer for more details
-* Tutorials : coming soon
-* Live Demo : https://www.youtube.com/watch?v=9CsuHTdIw2o
+* Tutorials 	: coming soon
+* Live Demo 	: https://www.youtube.com/watch?v=9CsuHTdIw2o
+* Download Code : https://github.com/CreatorB/SubRepoDownloader
