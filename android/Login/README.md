@@ -8,4 +8,4 @@ Android Login Screen Tutorial
 ## Doc
 #### Contact developer for more details
 * Tutorials : coming soon
-* Live Demo : coming soon
+* Live Demo : https://www.youtube.com/watch?v=9CsuHTdIw2o
