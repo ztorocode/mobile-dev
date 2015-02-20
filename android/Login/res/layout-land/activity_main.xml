@@ -1,0 +1,59 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mdev"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <LinearLayout
+        android:id="@+id/from"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@drawable/transparent_bg"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="10dp" >
+
+        <EditText
+            android:id="@+id/etUserName"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/email"
+            android:hint="Email"
+            android:padding="2dp"
+            android:textColorHint="#cccccc" 
+            android:background="@drawable/edittext_style"
+            android:textColor="#C0C0C0"/>
+
+        <EditText
+            android:id="@+id/etPass"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-2dp"
+            android:drawableLeft="@drawable/password"
+            android:hint="Password"
+            android:padding="2dp"
+            android:password="true"
+            android:textColorHint="#cccccc"
+            android:background="@drawable/edittext_style"
+            android:textColor="#C0C0C0" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnSingIn"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/from"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/button_style"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="SIGN IN"
+        android:textColor="#FFFFFF" />
+
+</RelativeLayout>
