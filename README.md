@@ -9,8 +9,7 @@
 Download All Repository of MD : 
 <code>$ git clone git@github.com:pondokprogrammer/mobile-dev</code>
 
-Download Sub Repository of MD : 
-Coming Soon ...
+Download Sub Repository of MD : https://github.com/CreatorB/SubRepoDownloader
 
 ## On The Wild
 
