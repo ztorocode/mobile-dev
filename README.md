@@ -2,12 +2,12 @@
 
 **Mobile Development** is one of the vocational at pondokprogrammer, and here we share many codes for you, you can use it for free to learn about programming, especially in the field of mobile development. Happy coding and keep learning, dev B)
 
-(https://farm8.staticflickr.com/7334/16399382220_2c350a1aa7_m_d.jpg)
+![MobileDev](https://farm8.staticflickr.com/7334/16399382220_2c350a1aa7_m_d.jpg)
 
 ## Usage
 
 Download All Repository of MD
-$ git clone git@github.com:CreatorB/Vim-JavaProgrammer
+<code>$ git clone git@github.com:CreatorB/Vim-JavaProgrammer</code>
 
 Download Sub Repository of MD
 Coming Soon ...
