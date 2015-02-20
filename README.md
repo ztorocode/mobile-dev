@@ -6,10 +6,10 @@
 
 ## Usage
 
-Download All Repository of MD
+Download All Repository of MD : 
 <code>$ git clone git@github.com:pondokprogrammer/mobile-dev</code>
 
-Download Sub Repository of MD
+Download Sub Repository of MD : 
 Coming Soon ...
 
 ## On The Wild
