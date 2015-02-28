@@ -7,6 +7,6 @@ Buah Dan Sayur
 
 ## Doc
 #### Contact App Developer for more details
-* Tutorials 	: 
+* Tutorials 	: http://www.slideshare.net/creatorb/tutorial-lengkap-cara-membuat-aplikasi-android-sederhana
 * Live Demo 	: http://youtu.be/oZCxj4VwfD0
 * Download Code : https://github.com/CreatorB/SubRepoDownloader
