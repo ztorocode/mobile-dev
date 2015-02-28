@@ -8,5 +8,5 @@ Android Notes
 ## Doc
 #### Contact App Developer for more details
 * Tutorials 	: http://www.slideshare.net/creatorb/tutorial-lengkap-cara-membuat-aplikasi-android-sederhana
-* Live Demo 	: 
+* Live Demo 	: https://www.youtube.com/watch?v=8dodLXbvO2E
 * Download Code : https://github.com/CreatorB/SubRepoDownloader
