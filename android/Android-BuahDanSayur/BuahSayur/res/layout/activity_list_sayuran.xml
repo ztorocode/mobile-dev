@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e5ff80"
+    android:orientation="vertical"
+    tools:context="com.example.buahsayur.ListSayuranActivity"
+    >
+
+    <ListView
+        android:id="@+id/lvListSayuran"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </ListView>
+
+</LinearLayout>

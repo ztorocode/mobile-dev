@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BuahSayur</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Menu Utama</string>
+    <string name="title_activity_list_buah">Buah - Buahan</string>
+    <string name="title_activity_detail_buah">Buah Dan Sayuran</string>
+    <string name="title_activity_list">Sayur - Sayuran</string>
+    <string name="title_activity_detail_sayuran">Sayur - Sayuran</string>
+
+</resources>
