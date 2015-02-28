@@ -7,6 +7,6 @@ Kalkulatorku Android
 
 ## Doc
 #### Contact App Developer for more details
-* Tutorials 	: 
+* Tutorials 	: http://www.slideshare.net/creatorb/tutorial-lengkap-cara-membuat-aplikasi-android-sederhana
 * Live Demo 	: https://www.youtube.com/watch?v=1GuGdiVjdzY
 * Download Code : https://github.com/CreatorB/SubRepoDownloader
