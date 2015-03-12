@@ -7,6 +7,6 @@ Android Audio Murottal - Pondokprogrammer Mobile
 
 ## Doc
 #### Contact App Developer for more details
-* Tutorials 	: 
-* Live Demo 	: 
+* Tutorials 	: https://www.scribd.com/doc/258469346/Android-Tutorial-Audioplayer-Murottal-Pondokprogrammer-Mobile 
+* Live Demo 	: https://www.youtube.com/watch?v=Knx7Xm7rgAo 
 * Download Code : https://github.com/CreatorB/SubRepoDownloader
