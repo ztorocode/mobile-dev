@@ -1,0 +1,48 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wallpaper"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <ImageView
+        android:id="@+id/basmalah"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/basmalah"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" 
+        android:gravity="center"
+        android:layout_marginBottom="130dp">
+    <Button
+        android:id="@+id/i"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Al - Ikhlas" 
+        android:textColor="#3090C7"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/f"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Al - Falaq"
+        android:textColor="#3090C7"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="An - Naas" 
+        android:textColor="#3090C7"
+        android:textStyle="bold"/>
+    </LinearLayout>
+
+
+</LinearLayout>
