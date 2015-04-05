@@ -9,11 +9,20 @@
         android:layout_height="match_parent"
         android:layout_centerInParent="true"/>
 
-    <TextView
-        android:id="@+id/full_text"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_centerHorizontal="true"
-        android:textColor="@android:color/white"/>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/linearLayout">
+        <TextView
+            android:id="@+id/full_text"
+            android:text="Title"
+            android:gravity="center_horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@android:color/white"/>
+
+        </LinearLayout>
 
 </RelativeLayout>
