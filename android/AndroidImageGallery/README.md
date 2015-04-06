@@ -1,4 +1,4 @@
-Android Galerry Photos App - Pondokprogrammer Mobile
+Galerry Photos - Pondokprogrammer Mobile
 ======
 **Galerry Photos** is android app with concept like gallery media on android, it tutorial about implementation of gridView layout, Bitmap Converter and load external media storage on android.
 
